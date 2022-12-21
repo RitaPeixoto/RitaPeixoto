@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Rita! 🌻</h1>
 
-<p align="center" style="font-style:italic;">I'm 21 years old and I'm a 1st year student of the Master in Computing and Informatics Engineering @FEUP</p>
+<p align="center" style="font-style:italic;">I'm 22 years old and I'm in my last year of my Master in Computing and Informatics Engineering @FEUP</p>
 
 ### My interests:
 
